@@ -14,4 +14,3 @@ const CustomButton = ({ variant, color, children, onClick}: CustomButtonProps) =
 }
 
 export default CustomButton;
-
